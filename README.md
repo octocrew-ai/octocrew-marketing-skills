@@ -6,9 +6,9 @@ Three [Agent Skills](https://agentskills.io/) for recurring work in SEO, paid me
 
 | Skill | Use it to | You get |
 | --- | --- | --- |
-| 🔎 [SEO + GEO Content Loop](skills/seo-geo-content-loop/) | Review search performance, find content gaps, and plan what to update or publish | A weekly SEO report, prioritized topics, and templates for drafting and review |
-| 🎯 [Tracking Confidence Check](skills/tracking-confidence-check/) | Check whether CAC, CPA, and ROAS are reliable enough to guide a paid media decision | A confidence rating, a decision recommendation, and follow-up checks |
-| 📊 [Funnel Quality Review](skills/funnel-quality-review/) | Find where visitors drop off and which sources bring qualified leads or customers | A stage-by-stage breakdown, a likely cause to investigate, and one proposed test |
+| 🔎 [SEO + GEO Content Loop](skills/seo-geo-content-loop/README.md) | Review search performance, find content gaps, and plan what to update or publish | A weekly SEO report, prioritized topics, and templates for drafting and review |
+| 🎯 [Tracking Confidence Check](skills/tracking-confidence-check/README.md) | Check whether CAC, CPA, and ROAS are reliable enough to guide a paid media decision | A confidence rating, a decision recommendation, and follow-up checks |
+| 📊 [Funnel Quality Review](skills/funnel-quality-review/README.md) | Find where visitors drop off and which sources bring qualified leads or customers | A stage-by-stage breakdown, a likely cause to investigate, and one proposed test |
 
 ## Get started
 
