@@ -25,10 +25,10 @@
 ## Technical issues (from Friday check)
 
 | Severity | URL | Issue | Fix | Owner |
-|---|---|---|---|
+|---|---|---|---|---|
 
 ## Assumptions (not measured)
-- <Possible reasons for changes, AI-visibility observations, hypotheses.>
+- <Possible reasons for changes, AI-visibility observations, hypotheses>
 
 ## Next week
 1. <Action> — owner
