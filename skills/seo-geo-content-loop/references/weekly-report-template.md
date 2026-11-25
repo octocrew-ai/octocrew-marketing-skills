@@ -19,21 +19,20 @@
 
 ## Content gaps
 
-| Question / query | Evidence | Target page | New or update |
+| Question / query | Evidence | Proposed page | New or update |
 |---|---|---|---|
 
 ## Technical issues (from Friday check)
 
 | Severity | URL | Issue | Fix | Owner |
-|---|---|---|---|---|
+|---|---|---|---|
 
 ## Assumptions (not measured)
-- <Possible reasons for changes, AI-visibility observations, hypotheses>
+- <Possible reasons for changes, AI-visibility observations, hypotheses.>
 
 ## Next week
 1. <Action> — owner
 2. <Action> — owner
-3. <Action> — owner
 
 ## Data gaps
 - <Missing access or data, if any>
